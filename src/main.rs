@@ -4,13 +4,13 @@
 //! 
 //! `dirstat [FLAGS] <input_dir>`
 //!
-//! Flags
+//! | Flags | |
 //! |:----------|------------------------:|
 //! |-h, --help | Prints help information |
 //! |-n, --nice | Display result in readable units |
 //! |-V, --version | Prints version information |
 //!
-//! Args 
+//! | Args  | | 
 //! |:----------|------------------------:|
 //! | <input_dir> | Path to file or directory you want check stats on |
 //!
